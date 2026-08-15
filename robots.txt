@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-yxbsnw.radarsatu88.shop/sitemap.xml
